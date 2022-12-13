@@ -1,0 +1,40 @@
+.header { 
+	font-family: Blackadder ITC Regular;
+}
+.text {
+	font-family: bradley hand itc;
+	}
+#id1{
+	border-style: dashed;
+	border-width: 10px;
+	border-color: white;
+}
+#id2 {
+	text-shadow: 4px 4px 4px white;
+	text-decoration: underline;
+	}
+#id3 {
+	text-shadow: 4px 4px 4px white;
+	text-decoration: underline;
+	}
+#id4 {
+	text-shadow: 4px 4px 4px white;
+	text-decoration: underline;
+	}
+#id5 {
+	text-shadow: 4px 4px 4px white;
+	text-decoration: underline;
+	}
+#id6 {
+	text-shadow: 4px 4px 4px white;
+	text-decoration: underline;
+	}
+#id7 {
+	text-shadow: 4px 4px 4px white;
+	text-decoration: underline;
+	}
+.color {
+	background-color: white;
+}
+
+	
